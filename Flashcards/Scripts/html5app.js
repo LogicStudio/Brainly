@@ -266,6 +266,7 @@ function ParseRunTimeProperties(ui, control) {
                     debugger;
                     var li = $('<li/>');
                     var link = $("<a href='#' onclick='ListItemClick(this)' nextScreen='" + listItem.NextScreen + "'></a>");
+                    link.append($("<img src='" + listItem.ImageSrc + "' />"));
                     link.append($("<h3 class='listItem' style='margin-bottom:6px;'>" + listItem.DefaultText + "</h3>"));
                     link.append($("<p class='listItem' style='margin-bottom:6px;'>" + listItem.SubText + "</p>"));
                     li.append(link);
