@@ -1,0 +1,144 @@
+﻿
+body
+{
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+.loginPanel
+{
+    background-color: transparent;
+    border: 8px solid #E4E4E4;
+    color: #666;
+    display: block;
+    font-size: 12px;
+    font-weight: normal;
+    height: 250px;
+    width: 400px;
+}
+
+.loginTitle
+{
+    background-color: transparent;
+    border-bottom-color: #E5E5E5;
+    border-bottom-style: double;
+    border-bottom-width: 3px;
+    color: black;
+    display: block;
+    font-size: 18px;
+    height: 22px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    width: 350px;	
+}
+
+.textbox
+{
+    -webkit-appearance: none;
+    -webkit-box-shadow: rgb(255, 251, 225) 0px 0px 3px 3px inset;
+    -webkit-rtl-ordering: logical;
+    -webkit-user-select: text;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: #FFFFF5;
+    background-image: none;
+    background-origin: padding-box;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;    
+    border: 1px inset #BCB691;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    box-shadow: rgb(255, 251, 225) 0px 0px 3px 3px inset;
+    display: block;
+    float: left;
+    font-size: 13px;
+    font-weight: normal;
+    height: 23px;
+    letter-spacing: normal;
+    line-height: normal;
+    min-width: 35%;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    position: static;
+    text-align: -webkit-auto;
+    vertical-align: baseline;
+    width: 150px;
+}
+
+.controlContainer
+{
+    background-color: transparent;
+    clear: both;
+    color: #666;
+    display: block;
+    font-size: 12px;
+    font-weight: normal;
+    height: 114px;
+    padding-top: 5px;
+    text-align: center;
+    vertical-align: baseline;
+    width: 648px;	
+}
+
+.formItem
+{
+    background-color: transparent;
+    clear: both;
+    color: #666;
+    display: block;
+    font-size: 12px;
+    font-weight: normal;
+    height: 28px;
+    line-height: 21px;
+    min-height: 21px;
+    min-width: 0px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 4px;
+    position: relative;
+    text-align: left;
+    vertical-align: baseline;
+    width: 338px;	
+}
+
+.loginContainer
+{
+    background-color: transparent;
+    color: #666;
+    display: block;
+    font-size: 12px;
+    font-weight: normal;
+    height: 102px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-top: 12px;
+    min-width: 350px;
+    text-align: center;
+    vertical-align: baseline;
+    width: 350px;	
+}
+
+.label
+{
+    background-color: transparent;
+    color: #666;
+    cursor: default;
+    display: block;
+    float: left;
+    font-size: 12px;
+    font-weight: bold;
+    height: 21px;
+    line-height: 21px;
+    margin-right: 16px;
+    margin-top: 3px;
+    padding-right: 10px;
+    position: static;
+    text-align: right;
+    vertical-align: baseline;
+    width: 110px;	
+}
+
