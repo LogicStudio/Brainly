@@ -1,6 +1,6 @@
 ---
 title: International Space Apps Challenge - My Virtual Mentor : Panama Team
-description: Expertos en desarrollo web y desarrollo movil, outsourcnig y software testing
+description: Apps Challenge - My Virtual Mentor : Panama Team
 author: www.logicstudio.net
 tags: Apps Challenge, mobile development, Brainly, My Virtual Mentor
 colors: light blue
